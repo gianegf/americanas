@@ -1,0 +1,26 @@
+{
+    "userWithRegisteredEmail":
+    [
+      {
+        "email": "teste@hotmail.com",
+        "password": "Senh@100",
+        "cpf" : "396.266.193-09",
+        "name" : "User With Invalid Email - Already Registered",
+        "birthday" : "18031993",
+        "gender" : "gender_F",
+        "phone" : "19992211159"
+      }
+    ],
+    "userWithInvalidCPF":
+    [
+      {
+        "email": "testinvalidcpf@hotmail.com",
+        "password": "Senh@100",
+        "cpf" : "999.999.999-99",
+        "name" : "User With Invalid CPF",
+        "birthday" : "18031993",
+        "gender" : "gender_M",
+        "phone" : "19992211159"
+      }
+    ]
+}

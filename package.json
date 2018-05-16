@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "allure-commandline": "*",
+    "jasmine-allure-reporter": "*",
+    "jasmine-spec-reporter": "^4.1.1",
+    "protractor": "~5.1.2"
+  }
+}

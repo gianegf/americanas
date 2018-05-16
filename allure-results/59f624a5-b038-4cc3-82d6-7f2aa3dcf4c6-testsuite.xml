@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1526470780840' stop='1526470850008'>
+    <name>Parte 1: </name>
+    <title>Parte 1: </title>
+    <test-cases>
+        <test-case start='1526470780841' status='passed' stop='1526470800598'>
+            <name>Check if Register page is displayed</name>
+            <title>Check if Register page is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='71e1fd5c-31ba-4edb-b0c7-6d70ac20005c-attachment.png' type='image/png' size='31441'/>
+            </attachments>
+        </test-case>
+        <test-case start='1526470800598' status='passed' stop='1526470818163'>
+            <name>Check if Already Registered Email message is displayed</name>
+            <title>Check if Already Registered Email message is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='91503b45-b0ea-4a49-954f-23b5563447a7-attachment.png' type='image/png' size='24599'/>
+            </attachments>
+        </test-case>
+        <test-case start='1526470818163' status='passed' stop='1526470834443'>
+            <name>Check if weak password + lengh message is displayed</name>
+            <title>Check if weak password + lengh message is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a92475d3-1f0e-4112-bc5b-9fed68b565d8-attachment.png' type='image/png' size='25620'/>
+            </attachments>
+        </test-case>
+        <test-case start='1526470834443' status='passed' stop='1526470850007'>
+            <name>Check if Already Registered Email message is displayed</name>
+            <title>Check if Already Registered Email message is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9910667a-bb21-4fee-92a7-858dd7aea8a0-attachment.png' type='image/png' size='25276'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
